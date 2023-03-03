@@ -2,7 +2,7 @@
 
 Part 1 of the University of Helsinki's free Massive Open Online Course (MOOC) on Object-Oriented Programming with Java. This course consists of seven parts.
 
-I completed this course from January 2023 to February 2023.
+I completed this course from **03/02/2023 to 27/02/2023**.
 
 ## Course Contents ##
 
